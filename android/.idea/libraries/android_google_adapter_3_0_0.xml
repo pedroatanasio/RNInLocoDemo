@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-google-adapter-3.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.inlocomedia.android/android-google-adapter/3.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.inlocomedia.android/android-google-adapter/3.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.inlocomedia.android/android-google-adapter/3.0.0/7be36ae74a08e52d7a30f6b9785f24c52a1b4871/android-google-adapter-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

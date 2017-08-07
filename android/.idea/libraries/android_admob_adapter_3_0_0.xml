@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="android-admob-adapter-3.0.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.inlocomedia.android/android-admob-adapter/3.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.inlocomedia.android/android-admob-adapter/3.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.inlocomedia.android/android-admob-adapter/3.0.0/e29e6432a2fd49aa0240c12a209ca4186496586e/android-admob-adapter-3.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
